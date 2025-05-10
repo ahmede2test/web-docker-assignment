@@ -1,12 +1,13 @@
  # 🌍 Web Docker Assignment
 
-A lightweight static website built using **HTML & CSS**, wrapped inside a fast and simple **Docker container** with **Nginx**.
+Welcome to the **Web Docker Assignment** — a beautifully crafted static website powered by **HTML & CSS**, and elegantly deployed inside a blazing-fast **Docker container** using **Nginx**.  
+Perfect for demos, quick web showcases, or impressing your professor 😏
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Quick Launch
 
-Run these two commands in your terminal:
+Spin it up in under 10 seconds:
 
 ```bash
 docker build -t my-simple-web .
