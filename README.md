@@ -1,10 +1,12 @@
-# Web Docker Assignment
+ # 🌍 Web Docker Assignment
 
-This is a simple static website built with HTML and CSS, and containerized using Docker with Nginx.
+A lightweight static website built using **HTML & CSS**, wrapped inside a fast and simple **Docker container** with **Nginx**.
 
-## 🌐 Live locally
+---
 
-To run the project locally using Docker:
+## 🚀 How to Run Locally
+
+Run these two commands in your terminal:
 
 ```bash
 docker build -t my-simple-web .
