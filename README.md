@@ -14,7 +14,6 @@ This project demonstrates how to quickly deploy a simple web page using modern c
 
 ---
 
-## Quick Start
 
 Clone the repository and run the following commands in your terminal:
 
